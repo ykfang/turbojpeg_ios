@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>77ACEBF5-8480-4665-9E2B-6795EF405E0C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>libjpeg-turbo-ios</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F1984BBC29BF4A8785ADEFAED00AD97106AE474B</key>
+		<string>ssh://git-ccr-1.devtools.intel.com:29418/ndg_iso_pa_sdk-sdk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>tools/libturbojpeg-ios/libjpeg-turbo-ios.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F1984BBC29BF4A8785ADEFAED00AD97106AE474B</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://git-ccr-1.devtools.intel.com:29418/ndg_iso_pa_sdk-sdk</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F1984BBC29BF4A8785ADEFAED00AD97106AE474B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F1984BBC29BF4A8785ADEFAED00AD97106AE474B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ndg_iso_pa_sdk-sdk</string>
+		</dict>
+	</array>
+</dict>
+</plist>
